@@ -20,8 +20,6 @@ custom_proxy_group=✨ ChatGPT`select`[]♻️ 所有自动`[]GPT自动`[]`JMS�
 custom_proxy_group=🍎 Apple`select`[]♻️ 所有自动`[]GPT自动`[]`JMS自动`[]DIRECT`.*
 custom_proxy_group=🚀 节点选择`select`[]♻️ 所有自动`[]GPT自动`[]JMS自动`[]DIRECT`.*
 custom_proxy_group=♻️ 所有自动`url-test`.*`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=GPT自动`url-test`(GPT)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=JMS自动`url-test`(JMS)`http://www.gstatic.com/generate_204`300,,50
 
 enable_rule_generator=true
 overwrite_original_rules=true
