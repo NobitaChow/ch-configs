@@ -17,7 +17,7 @@ update-url = https://raw.githubusercontent.com/NobitaChow/ch-configs/refs/heads/
 OPENAI = select,悠兔,use=true,policy-select-name=专线2.5X-日本3-GPT,interval=600,timeout=5,url=http://www.gstatic.com/generate_204,policy-regex-filter=GPT
 
 [Rule]
-RULE-SET,https://cdn.jsdelivr.net/gh/liandu2024/clash@main/list/ChatGPT.list,OPENAI
+RULE-SET,https://github.com/liandu2024/clash/blob/main/list/ChatGPT.list,OPENAI
 RULE-SET,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI.list,OPENAI
 RULE-SET,https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/AI2.list,OPENAI
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
